@@ -10,3 +10,4 @@
 
 ### Полезные ссылки
 - [Подсказка по markdown](https://www.markdownguide.org/chet-sheet/)
+- [Генератор файла .gitignore](https://www.toptal.com/developers/gitignore/)
